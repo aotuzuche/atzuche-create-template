@@ -1,0 +1,8 @@
+{
+  "name": "atzuche-create-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:shaodahong/atzuche-create-template.git",
+  "author": "shaodahong <337097324@qq.com>",
+  "license": "MIT"
+}
