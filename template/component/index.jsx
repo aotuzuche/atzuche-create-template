@@ -5,8 +5,7 @@ import Event from './event'
 
 @ComponentEvent('evt', Event)
 export default class <%= createName %> extends PureComponent {
-
-    render () {
-        return <h1><%= createName %></h1>
-    }
+  render() {
+    return <h1><%= createName %></h1>
+  }
 }
